@@ -2,7 +2,7 @@
 <!-- 🔥 ANIMATED HEADER — VENOM BANNER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0a0a0a,50:0f2027,100:0a0a0a&text=Rubel%20Singh%20Thakur&fontSize=40&fontAlignY=50&fontColor=00F7FF&stroke=00F7FF&strokeWidth=1&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20Microservices%20Architect&descAlignY=68&descSize=18&descColor=a0f0ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0a0a0a,50:0f2027,100:0a0a0a&text=Rubel%20Singh%20Thakur&fontSize=40&fontAlignY=50&fontColor=0000&stroke=00F7FF&strokeWidth=1&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20Microservices%20Architect&descAlignY=68&descSize=18&descColor=a0f0ff"/>
 </p>
 
 <!-- ⚡ TYPING ANIMATION -->
