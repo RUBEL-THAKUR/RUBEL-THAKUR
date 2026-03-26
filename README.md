@@ -174,14 +174,14 @@
 
 ## 📈 GITHUB STATS
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rubel-singh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rubel-singh&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=ff6b35&currStreakLabel=00F7FF" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubel-singh&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" />
-</p>
+</p> -->
 
 ---
 
