@@ -1,10 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🔥 ANIMATED HEADER — VENOM BANNER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=700&color=0:0f0a05,50:1f1200,100:0f0a05&text=Rubel%20Singh%20Thakur&fontSize=40&fontAlignY=50&fontColor=fb923c&stroke=f97316&strokeWidth=1&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20Microservices%20Architect&descAlignY=68&descSize=18&descColor=fed7aa"/>
-</p>
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0a05,50:1f1200,100:0f0a05&text=Rubel%20Singh%20Thakur&fontSize=40&fontAlignY=42&fontColor=fb923c&desc=Full%20Stack%20Engineer%20%7C%20Microservices%20Architect&descAlignY=62&descSize=18&descColor=fed7aa"/> </p>
 <!-- ⚡ TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2800&pause=600&color=00F7FF&center=true&vCenter=true&width=600&lines=☕+Java+%2B+Spring+Boot+Developer;⚛️+React+%2B+TypeScript+Engineer;🐋+Docker+%2B+Microservices+Architect;🚀+24–48h+End-to-End+Delivery;🔥+Real+Clients.+Real+Impact." />
