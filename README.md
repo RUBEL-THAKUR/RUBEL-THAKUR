@@ -1,6 +1,6 @@
 <!-- 🔥 ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0f2027,50:203a43,100:2c5364&text=Rubel%20Singh%20Thakur&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:000000,100:0f2027&text=Rubel%20Singh%20Thakur&fontSize=38&fontAlignY=50&fontColor=00F7FF"/>
 </p>
 
 <!-- ⚡ GLASS INTRO CARD -->
