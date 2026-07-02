@@ -2,242 +2,195 @@
 <!-- HEADER BANNER -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=0:000000,25:0a0500,50:150a00,75:0a0500,100:000000&text=Rubel%20Singh%20Thakur&fontSize=40&fontAlignY=50&fontColor=ffb347&desc=Full%20Stack%20Engineer%20%7C%20Microservices%20Architect&descAlignY=68&descSize=18&descColor=fb923c&fontAlign=50&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:0f172a,50:1e293b,100:0f172a&text=Rubel%20Singh%20Thakur&fontSize=38&fontAlignY=45&fontColor=e2e8f0&desc=Full%20Stack%20Engineer%20%7C%20Microservices%20Architect&descAlignY=65&descSize=16&descColor=60a5fa&fontAlign=50&descAlign=50"/>
 </p>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2800&pause=600&color=fb923c&center=true&vCenter=true&width=600&lines=☕+Java+%2B+Spring+Boot+Developer;⚛️+React+%2B+TypeScript+Engineer;🐋+Docker+%2B+Microservices+Architect;🚀+24–48h+End-to-End+Delivery;🔥+Real+Clients.+Real+Impact." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot+Developer;React+%2B+TypeScript+Engineer;Docker+%2B+Microservices+Architect;End-to-End+Delivery+in+24%E2%80%9348+Hours" />
 </p>
 
-<!-- STATS ROW -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rubel-singh&color=fb923c&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=rubel-singh&color=1e293b&style=flat-square&label=PROFILE+VIEWS" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Experience-1%2B%20Year-fb923c?style=for-the-badge&logo=dev.to&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Experience-1%2B%20Year-1e293b?style=flat-square" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Client%20Projects-3%20Production-fb923c?style=for-the-badge&logo=checkmarx&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Production%20Projects-3-1e293b?style=flat-square" />
 </p>
 
 ---
 
-## ⚙️ SYSTEM IDENTITY
+## About
 
-```yaml
-╔══════════════════════════════════════════════════════╗
-║  identity:                                           ║
-║    name        : Rubel Singh Thakur                  ║
-║    role        : Full Stack Developer                ║
-║    location    : Noida, Uttar Pradesh, India         ║
-║    experience  : 1+ Year (Production-Level)          ║
-║                                                      ║
-║  core_stack:                                         ║
-║    backend     : Java · Spring Boot · Microservices  ║
-║    frontend    : React.js · TypeScript · Tailwind    ║
-║    infra       : Docker · Docker Compose · AWS       ║
-║    databases   : MySQL · PostgreSQL · Redis          ║
-║    messaging   : RabbitMQ · REST APIs                ║
-║                                                      ║
-║  superpower    : "Zero to Production in 24–48 hours" ║
-║  currently     : MCA (AI/ML) @ Amity University 🎓   ║
-╚══════════════════════════════════════════════════════╝
-```
+I am a Full Stack Developer based in Noida, Uttar Pradesh, India, with over one year of production-level experience building backend systems, microservices, and web applications. I specialize in designing and shipping complete platforms — from architecture through deployment — often as the sole developer on real client projects.
+
+I am currently pursuing an MCA in Artificial Intelligence and Machine Learning at Amity University (2025–2027) while working as a Software Developer at Wred Software Solutions Pvt Ltd.
+
+**Core stack:** Java, Spring Boot, Microservices | React.js, TypeScript | Docker, AWS | MySQL, PostgreSQL, Redis | RabbitMQ
 
 ---
 
-## 🛠️ TECH ARSENAL
-
-<p align="center">
+## Technical Skills
 
 **Backend & Core**
 
-![Java](https://img.shields.io/badge/Java-0d0600?style=for-the-badge&logo=openjdk&logoColor=fb923c&labelColor=1a0d00)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0d0600?style=for-the-badge&logo=springboot&logoColor=fb923c&labelColor=1a0d00)
-![Spring Security](https://img.shields.io/badge/Spring_Security-0d0600?style=for-the-badge&logo=springsecurity&logoColor=fb923c&labelColor=1a0d00)
-![Hibernate](https://img.shields.io/badge/Hibernate-0d0600?style=for-the-badge&logo=hibernate&logoColor=fb923c&labelColor=1a0d00)
-![Microservices](https://img.shields.io/badge/Microservices-0d0600?style=for-the-badge&logo=kubernetes&logoColor=ffb347&labelColor=1a0d00)
+![Java](https://img.shields.io/badge/Java-1e293b?style=for-the-badge&logo=openjdk&logoColor=60a5fa)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1e293b?style=for-the-badge&logo=springboot&logoColor=60a5fa)
+![Spring Security](https://img.shields.io/badge/Spring_Security-1e293b?style=for-the-badge&logo=springsecurity&logoColor=60a5fa)
+![Hibernate](https://img.shields.io/badge/Hibernate-1e293b?style=for-the-badge&logo=hibernate&logoColor=60a5fa)
+![Microservices](https://img.shields.io/badge/Microservices-1e293b?style=for-the-badge&logo=kubernetes&logoColor=60a5fa)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-0d0600?style=for-the-badge&logo=react&logoColor=fb923c&labelColor=1a0d00)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0600?style=for-the-badge&logo=typescript&logoColor=ffb347&labelColor=1a0d00)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0600?style=for-the-badge&logo=javascript&logoColor=fb923c&labelColor=1a0d00)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d0600?style=for-the-badge&logo=tailwind-css&logoColor=ffb347&labelColor=1a0d00)
+![React](https://img.shields.io/badge/React-1e293b?style=for-the-badge&logo=react&logoColor=60a5fa)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e293b?style=for-the-badge&logo=typescript&logoColor=60a5fa)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=for-the-badge&logo=javascript&logoColor=60a5fa)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1e293b?style=for-the-badge&logo=tailwind-css&logoColor=60a5fa)
 
 **Databases & Messaging**
 
-![MySQL](https://img.shields.io/badge/MySQL-0d0600?style=for-the-badge&logo=mysql&logoColor=fb923c&labelColor=1a0d00)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0600?style=for-the-badge&logo=postgresql&logoColor=ffb347&labelColor=1a0d00)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0600?style=for-the-badge&logo=mongodb&logoColor=fb923c&labelColor=1a0d00)
-![Redis](https://img.shields.io/badge/Redis-0d0600?style=for-the-badge&logo=redis&logoColor=ffb347&labelColor=1a0d00)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d0600?style=for-the-badge&logo=rabbitmq&logoColor=fb923c&labelColor=1a0d00)
+![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=for-the-badge&logo=mysql&logoColor=60a5fa)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e293b?style=for-the-badge&logo=postgresql&logoColor=60a5fa)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e293b?style=for-the-badge&logo=mongodb&logoColor=60a5fa)
+![Redis](https://img.shields.io/badge/Redis-1e293b?style=for-the-badge&logo=redis&logoColor=60a5fa)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1e293b?style=for-the-badge&logo=rabbitmq&logoColor=60a5fa)
 
 **DevOps & Cloud**
 
-![Docker](https://img.shields.io/badge/Docker-0d0600?style=for-the-badge&logo=docker&logoColor=ffb347&labelColor=1a0d00)
-![AWS](https://img.shields.io/badge/AWS-0d0600?style=for-the-badge&logo=amazon-aws&logoColor=fb923c&labelColor=1a0d00)
-![Git](https://img.shields.io/badge/Git-0d0600?style=for-the-badge&logo=git&logoColor=ffb347&labelColor=1a0d00)
-![GitHub](https://img.shields.io/badge/GitHub-0d0600?style=for-the-badge&logo=github&logoColor=fb923c&labelColor=1a0d00)
-![Vercel](https://img.shields.io/badge/Vercel-0d0600?style=for-the-badge&logo=vercel&logoColor=ffb347&labelColor=1a0d00)
+![Docker](https://img.shields.io/badge/Docker-1e293b?style=for-the-badge&logo=docker&logoColor=60a5fa)
+![AWS](https://img.shields.io/badge/AWS-1e293b?style=for-the-badge&logo=amazon-aws&logoColor=60a5fa)
+![Git](https://img.shields.io/badge/Git-1e293b?style=for-the-badge&logo=git&logoColor=60a5fa)
+![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=60a5fa)
+![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=for-the-badge&logo=vercel&logoColor=60a5fa)
 
 **Also Familiar With**
 
-![Python](https://img.shields.io/badge/Python-0d0600?style=for-the-badge&logo=python&logoColor=fb923c&labelColor=1a0d00)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0600?style=for-the-badge&logo=fastapi&logoColor=ffb347&labelColor=1a0d00)
-![Node.js](https://img.shields.io/badge/Node.js-0d0600?style=for-the-badge&logo=node.js&logoColor=fb923c&labelColor=1a0d00)
-![Keycloak](https://img.shields.io/badge/Keycloak-0d0600?style=for-the-badge&logo=keycloak&logoColor=ffb347&labelColor=1a0d00)
-![JWT](https://img.shields.io/badge/JWT-0d0600?style=for-the-badge&logo=jsonwebtokens&logoColor=fb923c&labelColor=1a0d00)
-
-</p>
+![Python](https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=60a5fa)
+![FastAPI](https://img.shields.io/badge/FastAPI-1e293b?style=for-the-badge&logo=fastapi&logoColor=60a5fa)
+![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=for-the-badge&logo=node.js&logoColor=60a5fa)
+![Keycloak](https://img.shields.io/badge/Keycloak-1e293b?style=for-the-badge&logo=keycloak&logoColor=60a5fa)
+![JWT](https://img.shields.io/badge/JWT-1e293b?style=for-the-badge&logo=jsonwebtokens&logoColor=60a5fa)
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## Featured Projects
 
-### 🔧 Local Service Finder — Urban Company Clone (Microservices)
-> *Jan 2026 – Mar 2026*
+### Local Service Finder — Urban Company Clone (Microservices)
+*January 2026 – March 2026*
 
-**The Real Problem:** Finding and booking verified local service workers (plumbers, electricians, etc.) is broken.  
-**My Solution:** A full marketplace — engineered from scratch — with **11 independent microservices**.
+A full-scale service marketplace connecting verified local workers (plumbers, electricians, etc.) with customers, engineered from scratch using 11 independent microservices.
 
-```
-📦 Architecture:
-  ┌─────────────────────────────────────────────────────────────┐
-  │  API Gateway → Auth → Booking → Payment → Notification      │
-  │            → Search → AI Recommendation → ...               │
-  │                                                             │
-  │  Stack: Java · Spring Boot · Python · FastAPI · React.js    │
-  │         PostgreSQL · Docker Compose · RabbitMQ · JWT        │
-  │                                                             │
-  │  🚀 deploy: docker-compose up  ← entire system launches    │
-  └─────────────────────────────────────────────────────────────┘
-```
+**Architecture:** API Gateway, Auth Service, Booking Service, Payment Service, Notification Service, Search Service, AI Recommendation Service, and additional supporting services.
+
+**Stack:** Java, Spring Boot, Python, FastAPI, React.js, PostgreSQL, Docker Compose, RabbitMQ, JWT
 
 **Highlights:**
-- 🏗️ 11 containerized microservices — Auth, Booking, Payment, AI Recommendation, Search, Notification, Gateway & more
-- 💳 Razorpay payment integration + JWT auth + geolocation search
-- 📨 RabbitMQ async messaging between services
-- 🖥️ Full React.js frontend — worker & user dashboards, live booking, document verification
-- ⚡ Supports 100+ concurrent user flows
+- 11 containerized microservices covering authentication, booking, payment, AI recommendations, search, and notifications
+- Razorpay payment integration with JWT-based authentication and geolocation-based search
+- Asynchronous messaging between services via RabbitMQ
+- Complete React.js frontend with worker and user dashboards, live booking, and document verification
+- Designed to support 100+ concurrent user flows
 
 ---
 
-### 🤖 AI-Powered Business Chatbot — SaaS Platform
-> *Dec 2025 – Feb 2026*
+### AI-Powered Business Chatbot — SaaS Platform
+*December 2025 – February 2026*
 
-**The Problem:** Businesses waste hours answering the same customer queries repeatedly.  
-**My Solution:** Upload your PDFs / FAQs / URLs → deploy your own AI chatbot in **minutes**.
+A SaaS platform allowing businesses to deploy a custom AI chatbot within minutes by uploading PDFs, FAQs, or website URLs.
 
-```
-📦 Key Features:
-  ├── RAG Pipeline (Retrieval-Augmented Generation)
-  ├── Vector Embeddings for context-aware responses
-  ├── Lead Capture CRM built-in
-  ├── Appointment Booking integration
-  └── Deploy anywhere: Website Widget · WhatsApp · Instagram
+**Key Features:**
+- Retrieval-Augmented Generation (RAG) pipeline
+- Vector embeddings for context-aware responses
+- Built-in lead capture CRM and appointment booking integration
+- Deployable via website widget, WhatsApp, or Instagram
 
-  Stack: Python · FastAPI · LLM APIs · Vector DB · React.js
-  Impact: Automates 70%+ of repetitive customer queries 24/7
-```
+**Stack:** Python, FastAPI, LLM APIs, Vector Database, React.js
+
+**Impact:** Automates over 70% of repetitive customer queries around the clock.
 
 ---
 
-### 🏥 PsychoCare — Healthcare Management System
-> *Jul 2025 – Sep 2025 | Real Client: Dr. Poonam*
+### PsychoCare — Healthcare Management System
+*July 2025 – September 2025 | Client: Dr. Poonam*
 
-**The Problem:** A real clinic running 100% on paper — manual patient records, no appointment system.  
-**My Solution:** Built and shipped a full digital platform — end-to-end, alone, on deadline.
+A complete digital platform built for a clinic previously operating entirely on paper records, delivered end-to-end as the sole developer.
 
-```
-📦 What I built:
-  ├── Patient Record Management (digitized)
-  ├── Appointment Scheduling System
-  ├── Role-Based Access Control (Doctor / Admin)
-  ├── Spring Security + JWT authentication
-  └── Responsive React.js frontend with dynamic routing
+**Delivered:**
+- Digitized patient record management
+- Appointment scheduling system
+- Role-based access control for Doctor and Admin roles
+- Spring Security with JWT authentication
+- Responsive React.js frontend with dynamic routing
 
-  Stack: Java · Spring Boot · Hibernate JPA · MySQL · React.js
-  Impact: Reduced admin workload by ~60% 📉
-```
+**Stack:** Java, Spring Boot, Hibernate JPA, MySQL, React.js
+
+**Impact:** Reduced administrative workload by approximately 60%.
 
 ---
 
-### 💸 PrimoCash — FinTech Platform
-> *Real Client Project @ Wred Software Solutions*
+### PrimoCash — FinTech Platform
+*Client Project, Wred Software Solutions*
 
-- Built with Java, Spring Boot, Node.js, React.js
-- Integrated **Decentro KYC** verification + **Razorpay** payment gateway
-- Handled 100+ API flows per feature
-- Delivered as sole developer — design → dev → deployment
+- Built using Java, Spring Boot, Node.js, and React.js
+- Integrated Decentro KYC verification and Razorpay payment gateway
+- Handled over 100 API flows per feature
+- Delivered as sole developer, covering design, development, and deployment
 
 ---
 
-## 📈 GITHUB STATS
+## GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rubel-singh&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=fb923c&icon_color=ffb347&text_color=fed7aa&ring_color=fb923c" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rubel-singh&theme=dark&hide_border=true&background=000000&stroke=1a0d00&ring=fb923c&fire=ffb347&currStreakLabel=fb923c&sideLabels=fed7aa&dates=805020" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rubel-singh&show_icons=true&theme=default&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=93c5fd&text_color=e2e8f0&ring_color=60a5fa" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rubel-singh&theme=default&hide_border=true&background=0f172a&stroke=1e293b&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=e2e8f0&dates=94a3b8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubel-singh&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=fb923c&text_color=fed7aa" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubel-singh&layout=compact&theme=default&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=e2e8f0" />
 </p>
 
 ---
 
-## ⚡ WHAT SETS ME APART
+## What Sets Me Apart
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  🏆  Delivered 3 production-ready apps as SOLE developer        │
-│  ⚡  48–72 hour build cycles: architecture → working deploy     │
-│  🔗  Real client projects — not just tutorials or demos         │
-│  🧠  End-to-end ownership: design → dev → deployment            │
-│  🤖  AI-augmented workflow (Copilot, Cursor, Claude) —          │
-│      accelerates implementation, not replaces thinking          │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+- Delivered three production-ready applications as the sole developer
+- Consistent 48–72 hour build cycles from architecture to working deployment
+- Real client projects rather than tutorials or demo builds
+- End-to-end ownership across design, development, and deployment
+- AI-augmented workflow (Copilot, Cursor, Claude) used to accelerate implementation, not replace engineering judgment
 
 ---
 
-## 🎯 CURRENTLY
+## Currently
 
-- 🎓 MCA (AI & ML) @ Amity University *(2025–2027)*
-- 💼 Software Developer @ **Wred Software Solutions Pvt Ltd**
-- 🔨 Building scalable systems that ship fast and run in prod
-- 📚 Deepening expertise in system design & distributed systems
+- Pursuing MCA in AI & Machine Learning at Amity University (2025–2027)
+- Software Developer at Wred Software Solutions Pvt Ltd
+- Building scalable systems designed to ship quickly and run reliably in production
+- Deepening expertise in system design and distributed systems
 
 ---
 
-## 🌐 CONNECT WITH ME
+## Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/rubel-singh-846725273">
-    <img src="https://img.shields.io/badge/LinkedIn-0d0600?style=for-the-badge&logo=linkedin&logoColor=fb923c&labelColor=1a0d00" />
+    <img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=60a5fa" />
   </a>
   &nbsp;
   <a href="https://rubelixo.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-0d0600?style=for-the-badge&logo=netlify&logoColor=ffb347&labelColor=1a0d00" />
+    <img src="https://img.shields.io/badge/Portfolio-1e293b?style=for-the-badge&logo=netlify&logoColor=60a5fa" />
   </a>
   &nbsp;
   <a href="mailto:rubelthakur614@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d0600?style=for-the-badge&logo=gmail&logoColor=fb923c&labelColor=1a0d00" />
+    <img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=60a5fa" />
   </a>
   &nbsp;
   <a href="tel:+918580625010">
-    <img src="https://img.shields.io/badge/+91_8580625010-0d0600?style=for-the-badge&logo=whatsapp&logoColor=ffb347&labelColor=1a0d00" />
+    <img src="https://img.shields.io/badge/+91_8580625010-1e293b?style=for-the-badge&logo=whatsapp&logoColor=60a5fa" />
   </a>
 </p>
 
 ---
 
-<!-- FOOTER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:150a00,100:000000&height=120&section=footer&text=Let's%20Build%20Something%20Real&fontSize=20&fontColor=fb923c&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <i>🔥 "I don't just write code — I ship products." 🔥</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=100&section=footer"/>
 </p>
