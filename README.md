@@ -137,19 +137,6 @@ A complete digital platform built for a clinic previously operating entirely on 
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rubel-singh&show_icons=true&theme=default&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=93c5fd&text_color=e2e8f0&ring_color=60a5fa" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rubel-singh&theme=default&hide_border=true&background=0f172a&stroke=1e293b&ring=60a5fa&fire=60a5fa&currStreakLabel=60a5fa&sideLabels=e2e8f0&dates=94a3b8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubel-singh&layout=compact&theme=default&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=e2e8f0" />
-</p>
-
----
-
 ## What Sets Me Apart
 
 - Delivered three production-ready applications as the sole developer
